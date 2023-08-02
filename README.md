@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian Neru Letelier Campillay
 - 👀 I’m interested in Techonoly and simple things.
-- 🌱 I’m currently learning .Net 5.0 Microservices
+- 🌱 I’m currently learning Microsoft Power Platform, Dynamics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
