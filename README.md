@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ian Neru Letelier Campillay
+- 👋 Hi, I’m Ian Neru Letelier Campillay - Software Developer
 - 👀 I’m interested in Technology and simple things.
 - 🌱 I’m currently learning Nessage Broker and Distributed Architecture.
 - 💞️ I’m looking to collaborate on ...
