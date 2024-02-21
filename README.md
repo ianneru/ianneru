@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian Neru Letelier Campillay - Software Developer
 - 👀 I’m interested in Technology and simple things.
-- 🌱 I’m currently learning Nessage Broker and Distributed Architecture.
+- 🌱 I’m currently learning Message Broker and Distributed Architecture.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send me a message ( Whatsapp - +55 51 920046721 ) | [LinkedIn](https://www.linkedin.com/in/ianneru/) 
 
