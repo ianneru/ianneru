@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ian Neru Letelier Campillay
-- 👀 I’m interested in Techonoly and simple things.
-- 🌱 I’m currently learning Microsoft Power Platform, Dynamics
+- 👀 I’m interested in Technology and simple things.
+- 🌱 I’m currently learning Nessage Broker and Distributed Architecture.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... send me a message ( Whatsapp - +55 51 920046721 ) | [LinkedIn](https://www.linkedin.com/in/ianneru/) 
 
 <!---
 ianneru/ianneru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
